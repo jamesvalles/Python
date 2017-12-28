@@ -39,7 +39,7 @@ for number in range(1,151):
 print(ndivide)
         
 
-#Problem E - Extra Credit
+#Problem E 
 
 def average(list):
     'Returns the average of scores entered by user.'
